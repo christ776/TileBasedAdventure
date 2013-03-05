@@ -1,0 +1,91 @@
+10
+
+dir
+0
+svn://190.210.162.72/fashiny/TileBasedAdventure/TileBasedAdventure/libs/CocosDenshion
+svn://190.210.162.72
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b7bfce30-a97d-4f8f-8e47-cf996e98f725
+
+CDConfig.h
+file
+
+
+
+add
+
+CocosDenshion.h
+file
+
+
+
+add
+
+SimpleAudioEngine.h
+file
+
+
+
+add
+
+CDOpenALSupport.h
+file
+
+
+
+add
+
+CDAudioManager.h
+file
+
+
+
+add
+
+CocosDenshion.m
+file
+
+
+
+add
+
+SimpleAudioEngine.m
+file
+
+
+
+add
+
+CDOpenALSupport.m
+file
+
+
+
+add
+
+CDAudioManager.m
+file
+
+
+
+add
+

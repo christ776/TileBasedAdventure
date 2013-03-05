@@ -1,0 +1,56 @@
+10
+
+dir
+0
+svn://190.210.162.72/fashiny/TileBasedAdventure/TileBasedAdventure/libs/cocos2d/Platforms
+svn://190.210.162.72
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b7bfce30-a97d-4f8f-8e47-cf996e98f725
+
+Mac
+dir
+
+
+
+add
+
+iOS
+dir
+
+
+
+add
+
+CCNS.h
+file
+
+
+
+add
+
+CCGL.h
+file
+
+
+
+add
+

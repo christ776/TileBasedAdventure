@@ -1,0 +1,70 @@
+10
+
+dir
+0
+svn://190.210.162.72/fashiny/TileBasedAdventure/TileBasedAdventure/libs
+svn://190.210.162.72
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b7bfce30-a97d-4f8f-8e47-cf996e98f725
+
+kazmath
+dir
+
+
+
+add
+
+LICENSE_Kazmath.txt
+file
+
+
+
+add
+
+cocos2d
+dir
+
+
+
+add
+
+LICENSE_cocos2d.txt
+file
+
+
+
+add
+
+CocosDenshion
+dir
+
+
+
+add
+
+LICENSE_CocosDenshion.txt
+file
+
+
+
+add
+

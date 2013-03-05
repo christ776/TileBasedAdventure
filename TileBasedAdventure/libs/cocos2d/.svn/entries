@@ -1,0 +1,1029 @@
+10
+
+dir
+0
+svn://190.210.162.72/fashiny/TileBasedAdventure/TileBasedAdventure/libs/cocos2d
+svn://190.210.162.72
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b7bfce30-a97d-4f8f-8e47-cf996e98f725
+
+CCActionInstant.m
+file
+
+
+
+add
+
+CCTextureAtlas.h
+file
+
+
+
+add
+
+CCGrid.h
+file
+
+
+
+add
+
+cocos2d.h
+file
+
+
+
+add
+
+ccGLStateCache.h
+file
+
+
+
+add
+
+CCTMXTiledMap.h
+file
+
+
+
+add
+
+CCTextureAtlas.m
+file
+
+
+
+add
+
+CCGrid.m
+file
+
+
+
+add
+
+CCTransition.h
+file
+
+
+
+add
+
+cocos2d.m
+file
+
+
+
+add
+
+ccGLStateCache.m
+file
+
+
+
+add
+
+CCLabelTTF.h
+file
+
+
+
+add
+
+CCTMXTiledMap.m
+file
+
+
+
+add
+
+CCTransition.m
+file
+
+
+
+add
+
+CCLabelTTF.m
+file
+
+
+
+add
+
+ccTypes.h
+file
+
+
+
+add
+
+CCActionTiledGrid.h
+file
+
+
+
+add
+
+CCActionTiledGrid.m
+file
+
+
+
+add
+
+CCSpriteBatchNode.h
+file
+
+
+
+add
+
+CCScheduler.h
+file
+
+
+
+add
+
+CCTileMapAtlas.h
+file
+
+
+
+add
+
+CCActionInterval.h
+file
+
+
+
+add
+
+CCSpriteBatchNode.m
+file
+
+
+
+add
+
+CCScheduler.m
+file
+
+
+
+add
+
+CCActionGrid.h
+file
+
+
+
+add
+
+CCTextureCache.h
+file
+
+
+
+add
+
+CCTileMapAtlas.m
+file
+
+
+
+add
+
+CCActionCamera.h
+file
+
+
+
+add
+
+CCActionInterval.m
+file
+
+
+
+add
+
+CCActionGrid.m
+file
+
+
+
+add
+
+CCTextureCache.m
+file
+
+
+
+add
+
+CCGLProgram.h
+file
+
+
+
+add
+
+CCActionCamera.m
+file
+
+
+
+add
+
+ccShader_PositionTexture_uColor_frag.h
+file
+
+
+
+add
+
+CCGLProgram.m
+file
+
+
+
+add
+
+ccShader_PositionTextureColor_vert.h
+file
+
+
+
+add
+
+CCActionPageTurn3D.h
+file
+
+
+
+add
+
+CCActionGrid3D.h
+file
+
+
+
+add
+
+Platforms
+dir
+
+
+
+add
+
+CCActionPageTurn3D.m
+file
+
+
+
+add
+
+CCActionGrid3D.m
+file
+
+
+
+add
+
+CCSpriteFrame.h
+file
+
+
+
+add
+
+CCMenuItem.h
+file
+
+
+
+add
+
+ccMacros.h
+file
+
+
+
+add
+
+CCNode.h
+file
+
+
+
+add
+
+CCTexture2D.h
+file
+
+
+
+add
+
+CCSpriteFrame.m
+file
+
+
+
+add
+
+CCMenuItem.m
+file
+
+
+
+add
+
+ccShaders.h
+file
+
+
+
+add
+
+CCNode.m
+file
+
+
+
+add
+
+CCTexture2D.m
+file
+
+
+
+add
+
+ccShaders.m
+file
+
+
+
+add
+
+ccDeprecated.h
+file
+
+
+
+add
+
+CCTransitionPageTurn.h
+file
+
+
+
+add
+
+CCActionProgressTimer.h
+file
+
+
+
+add
+
+ccDeprecated.m
+file
+
+
+
+add
+
+CCTransitionPageTurn.m
+file
+
+
+
+add
+
+CCActionProgressTimer.m
+file
+
+
+
+add
+
+CCParallaxNode.h
+file
+
+
+
+add
+
+CCActionEase.h
+file
+
+
+
+add
+
+CCParallaxNode.m
+file
+
+
+
+add
+
+CCMotionStreak.h
+file
+
+
+
+add
+
+CCAnimation.h
+file
+
+
+
+add
+
+CCTransitionProgress.h
+file
+
+
+
+add
+
+CCActionEase.m
+file
+
+
+
+add
+
+Support
+dir
+
+
+
+add
+
+CCMotionStreak.m
+file
+
+
+
+add
+
+CCAnimation.m
+file
+
+
+
+add
+
+CCTransitionProgress.m
+file
+
+
+
+add
+
+ccShader_PositionTexture_uColor_vert.h
+file
+
+
+
+add
+
+CCMenu.h
+file
+
+
+
+add
+
+CCProgressTimer.h
+file
+
+
+
+add
+
+CCConfiguration.h
+file
+
+
+
+add
+
+CCMenu.m
+file
+
+
+
+add
+
+CCProgressTimer.m
+file
+
+
+
+add
+
+CCParticleBatchNode.h
+file
+
+
+
+add
+
+ccShader_Position_uColor_frag.h
+file
+
+
+
+add
+
+CCConfiguration.m
+file
+
+
+
+add
+
+CCActionCatmullRom.h
+file
+
+
+
+add
+
+CCParticleBatchNode.m
+file
+
+
+
+add
+
+CCActionCatmullRom.m
+file
+
+
+
+add
+
+CCParticleSystemQuad.h
+file
+
+
+
+add
+
+CCLabelBMFont.h
+file
+
+
+
+add
+
+ccShader_PositionColor_frag.h
+file
+
+
+
+add
+
+CCParticleSystemQuad.m
+file
+
+
+
+add
+
+CCCamera.h
+file
+
+
+
+add
+
+CCLabelBMFont.m
+file
+
+
+
+add
+
+CCScene.h
+file
+
+
+
+add
+
+CCCamera.m
+file
+
+
+
+add
+
+ccShader_PositionTextureA8Color_frag.h
+file
+
+
+
+add
+
+CCScene.m
+file
+
+
+
+add
+
+CCAnimationCache.h
+file
+
+
+
+add
+
+ccConfig.h
+file
+
+
+
+add
+
+CCTMXXMLParser.h
+file
+
+
+
+add
+
+CCDrawingPrimitives.h
+file
+
+
+
+add
+
+CCAnimationCache.m
+file
+
+
+
+add
+
+ccShader_PositionTexture_frag.h
+file
+
+
+
+add
+
+CCTMXXMLParser.m
+file
+
+
+
+add
+
+CCTMXObjectGroup.h
+file
+
+
+
+add
+
+CCDrawingPrimitives.m
+file
+
+
+
+add
+
+CCActionTween.h
+file
+
+
+
+add
+
+CCTMXObjectGroup.m
+file
+
+
+
+add
+
+CCActionTween.m
+file
+
+
+
+add
+
+CCTexturePVR.h
+file
+
+
+
+add
+
+CCTexturePVR.m
+file
+
+
+
+add
+
+CCParticleExamples.h
+file
+
+
+
+add
+
+CCTMXLayer.h
+file
+
+
+
+add
+
+CCSpriteFrameCache.h
+file
+
+
+
+add
+
+CCParticleExamples.m
+file
+
+
+
+add
+
+CCNode+Debug.h
+file
+
+
+
+add
+
+CCTMXLayer.m
+file
+
+
+
+add
+
+CCSpriteFrameCache.m
+file
+
+
+
+add
+
+CCNode+Debug.m
+file
+
+
+
+add
+
+ccShader_Position_uColor_vert.h
+file
+
+
+
+add
+
+ccShader_PositionColor_vert.h
+file
+
+
+
+add
+
+CCShaderCache.h
+file
+
+
+
+add
+
+CCShaderCache.m
+file
+
+
+
+add
+
+CCRenderTexture.h
+file
+
+
+
+add
+
+ccShader_PositionTextureA8Color_vert.h
+file
+
+
+
+add
+
+CCGrabber.h
+file
+
+
+
+add
+
+CCRenderTexture.m
+file
+
+
+
+add
+
+CCSprite.h
+file
+
+
+
+add
+
+CCGrabber.m
+file
+
+
+
+add
+
+CCAtlasNode.h
+file
+
+
+
+add
+
+CCSprite.m
+file
+
+
+
+add
+
+ccShader_PositionTexture_vert.h
+file
+
+
+
+add
+
+CCAction.h
+file
+
+
+
+add
+
+CCAtlasNode.m
+file
+
+
+
+add
+
+CCAction.m
+file
+
+
+
+add
+
+CCProtocols.h
+file
+
+
+
+add
+
+CCLabelAtlas.h
+file
+
+
+
+add
+
+CCParticleSystem.h
+file
+
+
+
+add
+
+CCActionManager.h
+file
+
+
+
+add
+
+ccShader_PositionTextureColor_frag.h
+file
+
+
+
+add
+
+CCLabelAtlas.m
+file
+
+
+
+add
+
+CCDirector.h
+file
+
+
+
+add
+
+CCLayer.h
+file
+
+
+
+add
+
+CCParticleSystem.m
+file
+
+
+
+add
+
+CCActionManager.m
+file
+
+
+
+add
+
+CCActionInstant.h
+file
+
+
+
+add
+
+ccShader_PositionTextureColorAlphaTest_frag.h
+file
+
+
+
+add
+
+CCDirector.m
+file
+
+
+
+add
+
+CCLayer.m
+file
+
+
+
+add
+
